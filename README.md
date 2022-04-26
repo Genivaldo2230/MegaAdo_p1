@@ -27,7 +27,10 @@ extras)
 calcular a tarifa de água e esgoto (desconsiderar impostos)
 6. Mostrar o nome completo de todos os integrantes do grupo (tela de 
 créditos)
-MEGA-ADO – Dia 09/05 até 23:59
+
+
+
+          MEGA-ADO – Dia 09/05 até 23:59
 • Usando a estrutura "switch", criar um menu com opções de 1 a 7 
 para acessar cada uma das funcionalidades descritas e onde a 
 opção 7 deve ser usada para sair do programa.
